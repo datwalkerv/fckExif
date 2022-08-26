@@ -1,0 +1,23 @@
+{
+  "name": "fckexif",
+  "version": "1.0.0",
+  "description": "fckexif - exract exif data from images and remove them ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exif",
+    "metadata",
+    "jpg",
+    "png",
+    "images"
+  ],
+  "author": "datwalkerv",
+  "license": "ISC",
+  "dependencies": {
+    "exif": "^0.6.0",
+    "exif-be-gone": "^1.2.2",
+    "prompt": "^1.2.2"
+  }
+}
